@@ -51,7 +51,7 @@ Aquí no hay magia, hay ingeniería. El sistema sigue un flujo híbrido diseñad
 
 ```bash
 # 1. Clonar
-git clone https://github.com/TU_USUARIO/scraper-ia.git && cd scraper-ia
+git clone https://github.com/aviba3/scraper-ia.git && cd scraper-ia
 
 # 2. Entorno (Hazlo bien)
 python -m venv venv
